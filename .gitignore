@@ -1,0 +1,15 @@
+# Archivos temporales
+.temp
+cache
+
+# Compilación
+dist
+
+# Node
+node_modules
+
+# Internos
+wip
+zep.txt
+metadata_zep*
+zepDash*
